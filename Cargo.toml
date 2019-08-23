@@ -4,5 +4,9 @@ version = "0.2.3"
 authors = ["Benjamin VanderSloot <admin@benvds.com>"]
 build = "build.rs"
 link = "bgpstream"
+description = "libbgpstream *-sys package. Unsafe, generated with bindgen."
+license = "CC-BY-NC-4.0"
+homepage = "https://github.com/bvandersloot/bgpstream-sys"
+repository = "https://github.com/bvandersloot/bgpstream-sys"
 
 [dependencies]
