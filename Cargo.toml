@@ -11,4 +11,4 @@ repository = "https://github.com/bvandersloot/bgpstream-sys"
 [dependencies]
 
 [build-dependencies]
-bindgen = "*"
+bindgen = "^0.51.0 "
