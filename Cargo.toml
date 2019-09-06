@@ -1,6 +1,6 @@
 [package]
 name = "bgpstream-sys"
-version = "0.2.3"
+version = "0.3.0"
 authors = ["Benjamin VanderSloot <admin@benvds.com>"]
 build = "build.rs"
 description = "libbgpstream *-sys package. Unsafe, generated with bindgen."
